@@ -1,6 +1,5 @@
-In this assignment, you need to implement Qin’s Algorithm (from Lecture Note
-2) and RSA operations using Java or C/C++ (you need to use the package
-GMP for C/C++).
+Qin’s Algorithm and RSA operations 
+
 1. You program may need to save all of the values for the matrix variable
 
 x11 x12
